@@ -1,5 +1,6 @@
 <h2 align="left">Hi!👋 I'm Jade an aspiring Web.3 developer 🚀🚀</h2>
 
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=MatchanJJ&theme=tokyonight-duo&hide_border=true" alt="GitHub Streak" /></a>
 ###
 
 <img align="right" height="150" src="https://scontent.fdvo6-1.fna.fbcdn.net/v/t39.30808-6/464800275_3541085676181919_1255804529340997838_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=6ee11a&_nc_eui2=AeHPOP5e-a7L61M84aViM0QZsUMjy8D_CRGxQyPLwP8JERULk6_absit0p3r-HJjD9VDSBuZSdHvO5K10giFHjuT&_nc_ohc=-TRKEBdhyqEQ7kNvgF7TbdX&_nc_zt=23&_nc_ht=scontent.fdvo6-1.fna&_nc_gid=AkwIN_kCKgSCMNnHuX725NR&oh=00_AYD_I7AsDHYhf39u5ZnDjeCAHdZweygfJJec3BVXK9qOJQ&oe=676CECCE"  />
