@@ -1,6 +1,5 @@
 <h2 align="left">Hi!👋 I'm Jade an aspiring Web.3 developer 🚀🚀</h2>
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=MatchanJJ&theme=tokyonight-duo&hide_border=true" alt="GitHub Streak" /></a>
 
 ###
 
@@ -49,6 +48,7 @@
 </div>
 
 ###
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=MatchanJJ&theme=tokyonight-duo&hide_border=true" alt="GitHub Streak" /></a>
 
 ![MatchanJJ's Stats](https://github-readme-stats.vercel.app/api?username=MatchanJJ&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
 
