@@ -63,7 +63,7 @@
 ![MatchanJJ's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MatchanJJ&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
 
 
-<h3 align="left">Wazzap future self, I hope you can achieve the things that you reallyyyy want and get to do what you'd love to do <3</h3>
+<h3 align="left">Wazzap future self, I hope you can achieve the things that you really want and get to do what you'd love to do <3</h3>
   
 Career Crisis Counter = 1
 //Increment this counter everytime you feel shit about your future
