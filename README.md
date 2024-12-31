@@ -1,4 +1,4 @@
-<h2 align="left">Hi!👋 I'm Jade an aspiring Web.3 developer 🚀🚀</h2>
+<h2 align="left">Hi!👋 I'm Jade an aspiring Web 3.0 developer 🚀🚀</h2>
 
 
 ###
