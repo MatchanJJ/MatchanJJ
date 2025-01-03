@@ -51,7 +51,7 @@
 
 - 🔭 I’m currently a Bachelor of Science in Computer Science student
 - 🌱 I’m currently learning Blockchain Development, Building Smart Contracts and exploring other blockchain systems.
-- 💬 Ask me just about anything. I am happy to help.
+- 💬 Ask me just about anything. I am happy to help. anything == just the things I know whaha
 - 📫 How to reach me: jedzxcx1@gmail.com
 - ⚡ Fun fact: You have to suck at something before you can be good at it.
 
