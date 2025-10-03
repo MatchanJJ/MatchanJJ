@@ -65,8 +65,3 @@
 
 <h3 align="left">Wazzap future self, I hope you can achieve the things that you really want and get to do what you'd love to do <3</h3>
   
-Career Crisis Counter = 2
-//Increment this counter everytime you feel shit about your future
-
-
-
